@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 Developer • Maker • Innovator 💻 Building with AI, IoT, and Automation 🤖 ESP32 • APIs • Smart Systems 🌱 Exploring AI copilots & edge tech ⚡Turning idea
 
 
